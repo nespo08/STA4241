@@ -312,3 +312,7 @@ for (nb in 1 : nBoot) {
 ## Standard errors from parameteric bootstrap
 apply(estBoot, 2, sd)
 
+df %>%
+  ggplot() +
+  geom_boxplot()
+
