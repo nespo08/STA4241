@@ -82,6 +82,8 @@ grid.arrange(q1_plot_10, q1_plot_1000, q1_plot_10000, ncol=2)
 
 ![](Midterm-Data/Q1-iii.png){width=60%, height=60%}
 
+*NOTE:* For (iv) and (v), computations were performed in R. Check code for computation process.
+
 **(iv) Utilizing the parametric bootstrap described in part (iii), what is variance of the estimator?**
 
 ```{r, warning=FALSE, message=FALSE}
